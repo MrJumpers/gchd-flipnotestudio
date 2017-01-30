@@ -1,1 +1,1 @@
-# epicflipnote
+# GCHD-FlipnoteStudio
